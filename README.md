@@ -12,8 +12,10 @@ Built with
 Python — using only built-in libraries (`os`, `shutil`, `argparse`, `subprocess`) plus Windows' own Task Scheduler for automation.
 
 
-
 How to run it
 1. Make sure Python is installed ([python.org](https://www.python.org/downloads/))
 2. Download or clone this repository
 3. Open a terminal in the project folder and run:
+4. Answer the prompts — no need to edit any code.
+
+Note: automatic scheduling (Task Scheduler) only works on Windows.
